@@ -1,2 +1,3 @@
 (irrelevent)
 another line of text
+added data from branch C3 with commit C6
